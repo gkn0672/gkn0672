@@ -1,4 +1,3 @@
-[![@gkn0672's Holopin board](https://holopin.me/gkn0672)](https://holopin.io/@gkn0672)
 ### Hi there 👋
 
 <!--
