@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nguyen Gia Khanh</h1>
 <h3 align="center">A student study computer science, interested in Big Data and Machine Learning</h3>
 
-- 👨‍💻 All of my projects are available at [gkn0672.github.io](gkn0672.github.io)
+- 👨‍💻 All of my projects are available at https://gkn0672.github.io/
 
 - 💬 Ask me about **Python, Java, C++**
 
