@@ -23,4 +23,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gkn0672&show_icons=true&locale=en&layout=compact" alt="gkn0672" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gkn0672&show_icons=true&locale=en" alt="gkn0672" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=gkn0672&show_icons=true&locale=en" alt="gkn0672" /></p>
