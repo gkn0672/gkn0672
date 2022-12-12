@@ -28,7 +28,7 @@
 <br><br>
 
 ## Projects
-👨‍💻 All of my projects are available at [https://gkn0672.github.io/](https://gkn0672.github.io/)
+All of my projects are available at [https://gkn0672.github.io/](https://gkn0672.github.io/)
 
 
 
