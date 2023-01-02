@@ -27,8 +27,7 @@
 <img align = "left" src = "https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
 <br><br>
 
-## Projects
-All of my projects are available at [https://gkn0672.github.io/](https://gkn0672.github.io/)
+
 
 
 
